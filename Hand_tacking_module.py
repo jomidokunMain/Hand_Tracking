@@ -1,5 +1,5 @@
 
-
+# Create a Module to run the project for all
 import cv2 
 import mediapipe as mp
 import time
